@@ -1,1 +1,1 @@
-# myvpn
+# Self-Hosted VPN
